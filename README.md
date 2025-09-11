@@ -5,3 +5,5 @@ I manage users and onboarding with **Azure AD**, and streamline workflows using 
 Interested in **development** and automation. I also enjoy gaming — especially **League of Legends** and **Factorio**.
 
 Let's connect and build something cool!
+
+> I am currently in the process of moving house hence the sparce commits. Once I have settled I will be able to continue projects at full pace again. :)
